@@ -1,0 +1,447 @@
+Austenitic stainless steel AISI 304L; Activated TIG welding; Micro-TiO2
+A-TIG welding; TIG welding; Composite flux; SiO2+MnO2 50%; MICROSTRUCTURE; MORPHOLOGY
+P92 steel; TIG welding; A-TIG welding; Ball indention; Impression creep; HIGH-TEMPERATURE; MODIFIED 9CR-1MO; MARTENSITIC STEEL; IMPRESSION CREEP
+Ultrasonic activating flux tungsten inert gas welding (UA-TIG); AUSTENITIC STAINLESS-STEEL; MECHANICAL-PROPERTIES; OXIDE FLUXES; TIG
+ATIG welding process; nonlinear exponential model; particle swarm
+Functionally graded dissimilar joints; P91 steel; 304 L steel; Gas; FUSION BOUNDARY; HEAT-TREATMENT; WELD JOINTS; P91 STEEL; EVOLUTION
+TIG welding; Weld pool image; Semantic segmentation; Convolutional; CLASSIFICATION; VISION
+activated tungsten inert gas welding; distortions; residual stresses; P91 STEEL; THERMOMECHANICAL ANALYSIS; DIFFUSIBLE HYDROGEN; A-TIG
+sustainable activated TIG welding; nano TiO2 flux; SA516 grade 70 carbon; WELDING PARAMETERS; WEAR RATE; OPTIMIZATION; MICROSTRUCTURE
+Stress; A-TIG welding; TIG welding; Distortion; SYSWELD; Thermal cycles; THERMOMECHANICAL ANALYSIS; RESIDUAL-STRESSES; MICROSTRUCTURE
+Activated tungsten inert gas (A-TIG) welding; micro-sized fluxes; MECHANICAL-PROPERTIES; ACTIVATED FLUX; GAS; SHAPE
+activating fluxes; A-TIG welding; IRSM 41 steel; macrostructures; WELDING PROCESS; ACTIVATING FLUX; SHIELDING GAS; OPTIMIZATION
+mechanical behavior; PC-ATIG welding; PWHT; P92 steel; TEM; STAINLESS-STEEL; MECHANICAL-BEHAVIOR; TIG; MICROSTRUCTURE; IMPROVEMENT
+A-TIG; Dissimilar welding; Inconel 718; SSDS 2507; Mechanical; DUPLEX STAINLESS-STEEL; INCONEL 718; FILLER METALS; OPTIMIZATION
+DUPLEX STAINLESS STEEL (2205); ACTIVATED FLUX GTA WELDING; TAGUCHI L16; MICROSTRUCTURE; JOINTS
+Ferritic-martensitic steel; Austenitic stainless steel; Gas tungsten arc; HEAT-RESISTANT STEEL; HIGH-TEMPERATURE TENSILE; Z-PHASE-FORMATION
+Austenitic stainless steel AISI 304L; Activated TIG; Flux bounded TIG; ACTIVATING FLUX; METALLURGICAL PROPERTIES; BEAD GEOMETRY; SHIELDING GAS
+ferritic-martensitic steel; austenitic stainless-steel; high entropy; MECHANICAL-PROPERTIES; P91 STEEL; HEAT-TREATMENT; MICROSTRUCTURE; JOINT
+ATIG welding; 2205 stainless steel; activating flux; oxides'; SURFACE-TENSION
+FB-TIG; super duplex stainless steel; microstructure; micro-hardness; STRUCTURE-PROPERTY RELATIONSHIPS; MECHANICAL-PROPERTIES; WELDED-JOINT
+A-TIG welding; Induction heating; Ductility; Impact toughness; MICROSTRUCTURE
+activated TIG (A-TIG) welding process; grey relational analysis (GRA); MECHANICAL-PROPERTIES; MICROSTRUCTURE
+TIG welding; A-TIG, FB-TIG, and FZ-TIG welding; 304 stainless steel; STAINLESS-STEEL; PENETRATION; MECHANISM; DEPTH
+MIG; TIG; CMT; microstructure; mechanical properties; COLD METAL TRANSFER; DUPLEX STAINLESS-STEEL; MECHANICAL-PROPERTIES
+Gas Metal Arc Welding (GMAW); Activating fluxes (AF); Hardness; MECHANICAL-PROPERTIES; HEAT-TREATMENT; STRESS; METAL; SIO2
+Activated TIG; P91 steel; Stress corrosion cracking; Microstructure; AUSTENITIC STAINLESS-STEELS; HYDROGEN-INDUCED CRACKING
+Activating flux tungsten inert gas welding (A-TIG); Ultrasonic; MECHANICAL-PROPERTIES; MORPHOLOGY
+activating flux tungsten inert gas welding; arc columns; dissimilar; METALLURGICAL PROPERTIES; MARANGONI CONVECTION; STAINLESS-STEEL
+Gonadal Longevity; Niche; Cell Adhesion; C. elegans; LIFE-SPAN; CAENORHABDITIS-ELEGANS; TGF-BETA; CHROMATIN
+Activated tungsten inert gas; P91; Incoloy 800HT; Dissimilar welded; DISSIMILAR METAL WELD; OXIDE FLUXES; TIG; CREEP; WELDABILITY
+activated flux gas tungsten arc welding; depth of penetration; pitting; PITTING CORROSION; MECHANICAL-PROPERTIES; PASSIVE FILM; MICROSTRUCTURE
+Ti-4Al-2V titanium alloy; TIG welding; microstructure; nanoindentation; TI-6AL-4V; EVOLUTION; BEHAVIOR; HARDNESS; ZONES
+A-TIG; FZ-TIG; Optimization; RSM; Box-behnken; Activated flux; Hardness; GAS; STEEL; PENETRATION; PERFORMANCE; DEPTH; ARC
+GMAW; TIG; content of phase; mechanical properties; MECHANICAL-PROPERTIES; 9CR-1MO STEEL; TIG; MICROSTRUCTURE; GAS
+Activated flux tungsten inert gas welding; mechanism; weld bead; CREEP-RUPTURE BEHAVIOR; TIG WELDING PROCESS; STAINLESS-STEEL; 9CR-1MO
+Duplex stainless steel; A-T IG welding; Nitrogen gas; Phase balance; DUPLEX STAINLESS-STEEL; MECHANICAL-PROPERTIES; PITTING CORROSION; FLUX
+TIG welding; aluminium alloy AMg6; flux backing tape; X-ray test; ACTIVATING FLUX
+A-TIG; hastelloy C-276; macrostructure; MRA; TLBO; MECHANICAL-PROPERTIES; GENETIC-ALGORITHM; INCONEL 825; STEEL; GTAW
+Inconel 617; TIG welding; A-TIG welding; Post Weld Heat Treatment; SIMULATION; MICROSTRUCTURE; TEMPERATURE; TENSILE; ALLOY
+A-TIG welding; IRSM 41 steel; marangoni convection; melting point of; MECHANICAL-PROPERTIES; CORROSION BEHAVIOR; PROCESS PARAMETERS
+A-TIG welding; Cu-ETP; Activating flux; Silicon dioxide; Ionization; PENETRATION; JOINT
+ternary shielding gas; bead profile; AISI 316 L stainless steel; TIG; SHIELDING GAS-COMPOSITION; MECHANICAL-PROPERTIES; ACTIVATING FLUX; BEAD
+E350 Steel; microstructure; activated flux; fatigue; TIG dressing; FATIGUE-STRENGTH; TIG; MICROSTRUCTURE; PENETRATION; OXIDE
+A-TIG; stainless steel; angular distortion; fluxes; input parameters
+A-TIG; stainless steel; angular distortion; fluxes; input parameters
+A-TIG welding; Activated flux; Thermal camera; Machine learning; PROCESS PARAMETERS; BEAD GEOMETRY; OPTIMIZATION; ALLOY
+A-TIG; Stainless steel 304; Weld geometry; Autogenous; OXIDE FLUXES; PENETRATION; SHAPE
+1Cr21Ni5Ti steel; A-TIG; Marangoni convection; weld formation; CORROSION-RESISTANCE; HEAT-TREATMENT; MICROSTRUCTURE; EVOLUTION; JOINTS
+TIG; Activated flux; DOE; Mixture design; Microstructure; Mechanical; MECHANICAL-PROPERTIES; TIG; STEEL; OPTIMIZATION
+Machine learning; A-TIG welding; feature importance; random forest; MECHANICAL-PROPERTIES; FLUX; OPTIMIZATION; PENETRATION
+Inconel 617; TIG welding; A-TIG welding; potentiodynamic polarisation; FIBER LASER; ALLOY; POWER; CREPT; HAZ
+A-TIG welding; heterogeneous microstructure; HW-TIG welding; mechanical; RUPTURE BEHAVIOR; FRACTURE MODE; TIG; DEFORMATION; TEMPERATURE
+activated-Tungsten inert gas welding; flux; mechanical testing; MECHANICAL-PROPERTIES; PHASE-TRANSFORMATION; RESIDUAL-STRESSES; STEEL
+Invar steel; TIG welded butt joint; Welding deformation; Residual; HYBRID WELDED-JOINT; MICROSTRUCTURE; BEHAVIOR
+AISI 316L(N); LASER WELDS; TIG; STRENGTH; DEFORMATION; BEHAVIOR; GAS
+activated tungsten inert gas welding; tungsten inert gas welding; PITTING CORROSION; TOUGHNESS; PHASE; OPTIMIZATION; RESISTANCE; BEHAVIOR
+A-TIG; penetration; macrostructure; microstructure; hardness; MECHANICAL-PROPERTIES; PENETRATION; DEPTH
+Inconel 617; A-TIG welding; TIG welding; microstructural analysis; WELDING EXPERIMENTAL-INVESTIGATIONS; SIMULATION; JOINTS; HAZ
+Iron vapour; Transport; Oxygen; Diffusion; METAL VAPOR BEHAVIOR; MARANGONI CONVECTION; SHAPE VARIATIONS
+FB-TIG; activated flux; SEM; EDS; potentiodynamic testing; AA7004
+Hastelloy C-276; A-TIG; butt joint; macrostructure; microstructure
+PPCA-TIG welding; numerical simulation; complete penetration; activating; ARC; MICROSTRUCTURE; ARGON; BEHAVIOR; ALLOY; LASER; FLUX
+Activated flux; Austenite stainless steel 316L; Design matrix; S/N; TIG
+DCSP TIG Welding; A-TIG welding; weld porosity; Activating Flux; MICROSTRUCTURE
+New heat -resistant steel; Welding methods; Microstructure; Mechanical; STRAIN-INDUCED PRECIPITATION; DEFORMATION; MARTENSITE; TRANSFORMATION
+Welding; Residual stress; Distortion; Welding simulation; A-TIG welding; GAS TUNGSTEN ARC; PROCESS PARAMETERS; OPTIMIZATION; PENETRATION
+Super austenitic stainless steel; AISI 904L; activated tungsten inert; MECHANICAL-PROPERTIES; IMPRESSION CREEP; STAINLESS-STEEL; WELDING
+Welding; Bending analysis; Microhardness; Materials; Tensile strength; WELDING PROCESS; RESIDUAL-STRESSES; STAINLESS-STEEL; ACTIVATED FLUX
+magnesium alloy; A-TIG welding; longitudinal magnetic field; tissue; SURFACE-TENSION; LASER
+AT-TIG; Weld formation; Oxygen transfer; Mechanism; TRANSPORT-COEFFICIENTS; NUMERICAL-SIMULATION; MARANGONI CONVECTION
+Active fluxes; Arc constriction; A-TIG welding; Duplex stainless steel; DEEP PENETRATION; ACTIVATING FLUX; PERFORMANCE; MECHANISM; BEHAVIOR
+Welding; Austenitic; Super duplex; Interlayer; Microstructure; WELDS; FUSION
+ATIG; Flux; Slag; Penetration depth; weld bead width; ACTIVATING FLUX; MECHANICAL-PROPERTIES; PENETRATION; 316LN
+Powder Pool Coupled Activating TIG; Arc plasma; Arc compression; GAS; PENETRATION; PARTICLES; CONVECTION
+Direct current straight polarity; TIG welding; oxide film; activating; A-TIG; STEEL; MICROSTRUCTURE
+A-TIG; flux; penetration depth; arc constriction; Marangoni convection; AUSTENITIC STAINLESS-STEEL; A-TIG; MECHANICAL-PROPERTIES; PROPERTY
+316L austenitic stainless steel; corrosion; depth of penetration; AUSTENITIC STAINLESS-STEEL; TIG WELDING PROCESS; CORROSION BEHAVIOR
+2205 Duplex stainless-steel (DSS); Activated Gas Tungsten Arc Welding; HEAT-AFFECTED ZONES; INPUT; RESISTANCE; AUSTENITE; CRACKING; JOINT
+A-TIG; penetration; macrostructure; microstructure; tensile strength; STEEL; FLUX; 304-STAINLESS-STEEL; MICROSTRUCTURE; OPTIMIZATION; GTAW
+activated flux; activated tungsten inert gas welding; depth of; CORROSION-RESISTANCE; MECHANICAL-PROPERTIES; MICROSTRUCTURE; FLUX
+Inconel 617; A-TIG welding; optimization; L16 array; ANOVA; PSO; GA; ARTIFICIAL NEURAL-NETWORK; ACTIVATING FLUX; TAGUCHI METHOD
+AISI 904L; activated tungsten inert gas welding; hot-wire tungsten inert; CORROSION BEHAVIOR; WELDING PROCESS; ALLOY; FLUX; PARAMETERS; METALS
+Dissimilar welding; Activated-TIG; Marangoni effect; Microstructure; DISSIMILAR METAL WELD; HEAT-AFFECTED ZONE; STAINLESS-STEEL
+Bicomponent flux; activated tungsten inert gas; microstructure; MECHANICAL-PROPERTIES; CORROSION BEHAVIOR; ACTIVATING FLUX; TIG
+TiO2-activated flux; longitudinal alternating magnetic field; AZ91; MECHANICAL-PROPERTIES
+Activated; Tungsten; Inert; Gas; Welding; Duplex; Stainless steel; Flux; PROCESS PARAMETERS; MECHANICAL-PROPERTIES; HEAT INPUT; TIG; FLUX
+TIG; depth of penetration; depth to width ratio; activating fluxes; AUSTENITIC STAINLESS-STEEL; ACTIVATING FLUX; MICROSTRUCTURE; MECHANISM
+ATIG; Oxide flux; 304 stainless steel; Weld morphology; Angular; OXIDE FLUXES; GTA; SHAPE
+dissimilar magnesium alloy; TIG welding; numerical simulation; MECHANICAL-PROPERTIES; MICROSTRUCTURE; JOINTS
+Titanium; TIG welding; Activating flux; Penetration; Microstructure; MECHANICAL-PROPERTIES; TIG; ALLOYS; DEPTH
+super austenitic stainless steel; AISI 904L; activated tungsten inert; MECHANICAL-PROPERTIES; WELDING PROCESS; BEHAVIOR; MICROSTRUCTURE; FLUX
+Stress corrosion cracking; 316LN austenitic stainless steel; Boiling; ALLOY 600; PITTING CORROSION; FAILURE ANALYSIS; STRAIN-RATE; BEHAVIOR
+Super austenitic stainless steel AISI 904L; parameter optimization; MECHANICAL-PROPERTIES; MICROSTRUCTURE; FLUXES; FRP; RSM
+FATIG; ATIG; FBTIG; Flux; Depth of penetration; MECHANICAL-PROPERTIES; ACTIVATING FLUX; INCONEL 600; TIG
+arc voltage; ATIG; corrosion; dissolved oxygen; flux; hardness; tensile; OXIDE FLUXES; DISSIMILAR WELDMENTS; CORROSION BEHAVIOR; AISI 430; TIG
+dissimilar steels welding; stainless steel; mild steel; ATIG welding; ACTIVATING FLUX; WELDED-JOINT; PENETRATION; RESISTANCE; MORPHOLOGY
+ATIG; penetration depth; microstructure; secondary phases; optimization; FERRITIC STAINLESS-STEEL; A-TIG; MECHANICAL-PROPERTIES; MAGNESIUM ALLOY
+A-TIG welding; residual stress; thermal cycles; thermo-mechanical; PREDICTION; TIG; DISTORTION; BEHAVIOR; GAS
+TIG welding; Pulse TIG; A-TIG; K-TIG; Bead geometry; MECHANICAL-PROPERTIES; K-TIG; METALLURGICAL PROPERTIES; PROCESS
+A-TIG welding; SS-316L; EDS and SEM; STAINLESS-STEEL; JOINTS
+A-TIG; Spectrum diagnosis; Arc temperature; Spatial domain analysis; SURFACE-TENSION; TIG; OXIDE; FLOW
+distortion; fusion welding; mechanical properties; microstructure; A-TIG; FLUX; BEHAVIOR; ARC
+Semi killed steel; GMAW; GTAW; Activated-GTAW and Activated flux; HEAT-INPUT; MICROSTRUCTURE; PARAMETERS; STRENGTH
+activated-tungsten inert gas welding; aluminide steel; depth-to-width; MECHANICAL-PROPERTIES; 9CR-1MO STEEL; PROCESS PARAMETERS; ACTIVATING
+ATIG welding; Mixing design method; Mechanical properties; Corrosion; TUNGSTEN ARC PROCESS; PROCESS PARAMETERS; PHASE PRECIPITATION; BEHAVIOR
+AISI 201; A-TIG; penetration; microstructure; MECHANICAL-PROPERTIES; OXIDE FLUXES; PENETRATION; BEHAVIOR; ATIG
+sustainable welding; productivity; ATIG; flux; ACTIVATING FLUX; OXIDE FLUXES; TIG; OPTIMIZATION; DEPTH; MICROSTRUCTURE
+activated tungsten inert gas (A-TIG) welding process; response surface; MECHANICAL-PROPERTIES; STEEL; MICROSTRUCTURE
+activated gas tungsten arc welding (A-GTAW); Box-behnken design (BBD); ARTIFICIAL NEURAL-NETWORK; PARTICLE SWARM OPTIMIZATION
+Tungsten inert gas welding; Activated flux; Marangoni convection; Weld; OXIDE FLUXES; PENETRATION; DEPTH; ARC
+Activated flux Tungsten Inert Gas welding; Oxide fluxes; Arc; AUSTENITIC STAINLESS-STEEL; MECHANICAL-PROPERTIES; TIG WELDMENTS
+Activated flux; LAFM; TIG; welding; dissimilar; OXIDE FLUXES; TUNGSTEN; MORPHOLOGY; WELDMENTS
+316L(N) stainless steel; A-TIG welding; Arc characteristics; Shielding; PROCESS PARAMETERS; STEEL; MICROSTRUCTURE; FLUX; MECHANISM
+A-TIG Welding; AH36 steel; Weld bead depth; Weld bead width; Weld zones; AUSTENITIC STAINLESS-STEEL; ARC VOLTAGE; PENETRATION; PERFORMANCE
+Activated gas tungsten arc welding (a-GTAW) process; Box-behnken design; PARTICLE SWARM OPTIMIZATION; DUPLEX STAINLESS-STEEL
+Dissimilar Metal Weld; Functionally Graded Joint; Activated Gas Tungsten; TRANSITION JOINTS; MICROSTRUCTURAL EVOLUTION
+Sustainable manufacturing; energy consumption; depth of penetration; ACTIVATING FLUX; MECHANICAL-PROPERTIES; SURFACE-TENSION; OXIDE FLUXES
+A-TIG; optimization; HTS algorithm; RSM; welding; SA 516 Gr; 70 steel; MECHANICAL-PROPERTIES; GENETIC-ALGORITHM; STAINLESS-STEEL; BEAD
+nanoscale Fe2O3; microscale Fe2O3; A-TIG welding; activating flux; ACTIVATED FLUX; TIG; MICROSTRUCTURE; PENETRATION; BEHAVIOR; MORPHOLOGY
+Inconel 625; A Pulsed TIG welding process; Depth of penetration; Bead; MICROSTRUCTURE
+Austenitic stainless steel; Alloy 617; Modified 9Cr-1Mo steel; Welding
+A-TIG welding with wire feed; EPMA; Mechanical properties; AUSTENITIC STAINLESS-STEEL; MECHANICAL-PROPERTIES; MICROSTRUCTURE
+FA-TIG welding; SiO2-TiO2 binary flux; Mechanical properties; MECHANICAL-PROPERTIES; ACTIVATING FLUXES; SURFACE-TENSION; OXIDE FLUXES
+Nanoparticles; Nano-Flux; Powder; Welding; TIG; Morphology; STEEL; ADDITIVES; WEAR
+SS-316L; Alloy-800; Activated flux; Gas tungsten arc welding; Dissimilar; AUSTENITIC STAINLESS-STEEL; TIG; MICROSTRUCTURE; WELDABILITY; JOINTS
+A-TIG welding; Weld penetration; Marangoni; Arc constriction; Active; OXIDE FLUXES; STEEL; MECHANISM; PENETRATION; ARC; ALLOY; MICROSTRUCTURE
+Activated tungsten inert gas welding (A-TIG); duplex stainless steels; MECHANICAL-PROPERTIES; ALLOY; MICROSTRUCTURE; MORPHOLOGY; GTA
+P92 steel; Fusion welding; Microstructure; Mechanical properties; RESISTANT STEELS; CREEP; TEMPERATURE; FLUX; BEHAVIOR; DESIGN
+A-TIG; A-GTAW; depth of penetration; macrostructure; S235JR+N; P265GH; PENETRATION
+Aluminium Alloy; Activated flux; Welding; TIG welding; Systematic review; MAGNESIUM ALLOY; MECHANICAL-PROPERTIES; ACTIVATING FLUX
+Welding; Activated flux; Activated TIG; Productivity; Penetration; FLUX; GAS
+A-TIG; Inconel 625; Aspect ratio; Brinell hardness; TOPSIS
+A-TIG welding; TIG welding; Inconel 625; Mechanical properties; LAVES PHASE; BEHAVIOR; MICROSTRUCTURE; TEMPERATURE
+aluminum alloy; depth of penetration; tensile strength; texture; TUNGSTEN INERT-GAS
+Welding; Chemical composition modification; Impact toughness; MICROSTRUCTURE
+A-TIG; FZ-TIG Welding; Flux; Oxide; Weld penetration; Copper
+Tungsten; inert; gas; welding; flux; Marangoni; bead; width
+Activated TIG welding process; OA-Taguchi method; regression modeling; DUPLEX STAINLESS-STEEL; MECHANICAL-PROPERTIES; MICROSTRUCTURE; FLUX
+material processing; material properties; metals; SHIELDING GAS; MARANGONI CONVECTION; MECHANICAL-PROPERTIES; PROCESS
+Dissimilar steel; AA-TIG; Pre-edge surfacing; Microstructure; MECHANICAL-PROPERTIES; CORROSION-RESISTANCE; HEAT-TREATMENT; BEHAVIORS
+Numerical simulation; Activated TIG welding; AISI 316 LN stainless; FLUID-FLOW; HEAT-TRANSFER; SURFACE-TENSION; ARC; PENETRATION
+A-TIG; TIG; residual stresses; X-ray diffraction technique; distortion; PROCESS PARAMETERS; ACTIVATING FLUX; OPTIMIZATION; BEAD
+TUNGSTEN ARC PROCESS; MORPHOLOGY; ATIG
+oxide flux; activated tungsten inert gas welding; mechanical properties; ACTIVATING FLUX; MORPHOLOGY; WELDMENTS; GTAW
+Activated nano-oxide flux; Welding; Direct ageing; Tensile properties; MECHANICAL-PROPERTIES; STAINLESS-STEEL; PRECIPITATION; OXIDE
+A-TIG welding; CFD; Solidification; Marangoni flow; Particle trajectory; MARANGONI CONVECTION; ARC; PENETRATION; FLUXES; OXYGEN; METAL
+ATIG; FBTIG; activated flux; weld penetration; Marangoni effect; arc; MECHANICAL-PROPERTIES; ACTIVATING FLUX; METALLURGICAL PROPERTIES
+A-TIG welding; Dissimilar metal welding; Solidification temperature; AUSTENITIC STAINLESS-STEEL; SOLIDIFICATION CRACKING; HOT CRACKING
+Activated flux; Marangoni; XRD; Peclet number; dendrite; arc; CORROSION-RESISTANCE; GAS; ALLOY; FLUX; MICROSTRUCTURE; INCONEL; STEELS
+A-TIG welding; SS321; Taguchi-based GRA; Tensile properties; GREY RELATIONAL ANALYSIS; MULTI-PERFORMANCE CHARACTERISTICS; WELDING
+2219 aluminum alloy; activating flux; weld penetration; TIG welding; FLUXES; STEEL
+magnetic field; activated TIG welding; NiCl2 flux; grain refinement; PARAMETERS; CAST
+Friction stir welding; A-TIG; 9Cr-1Mo steel; Tool rotation speed; HEAT-TREATMENT; P91 STEEL; CRACKING
+ATIG; ferritic stainless steel; weld shape; mechanical properties; OXIDE FLUXES; TIG; PENETRATION; MICROSTRUCTURE; MORPHOLOGY
+manual A-TIG; automated A-TIG; distilled water; carrier solvent
+Inconel 625; A-TIG welding; GRA; TOPSIS; ANOVA; SEM; EDS; XRD; MULTIOBJECTIVE OPTIMIZATION; BEAD GEOMETRY; FLUX
+Activated flux GTAW; Pulsed GTAW; Weldment characterization; Dissimilar; AUSTENITIC STAINLESS-STEEL; TIG
+activated tungsten inert gas welding; super duplex stainless steel; DUPLEX STAINLESS-STEEL; MECHANICAL-PROPERTIES; WELDING PARAMETERS
+Modified 9Cr-1Mo steel; Welds; Fracture toughness; Heat treatment; CYCLE FATIGUE BEHAVIOR; MICROSTRUCTURE; TEMPERATURE; CREEP
+P22 steel; A-TIG welding; Depth of penetration and response surface; RESPONSE-SURFACE METHODOLOGY; LASER
+Oxide fluxes; Pulsed-TIG; DSS 2205; Mechanical properties; MECHANICAL-PROPERTIES; MICROSTRUCTURE; BEHAVIOR; TIG
+Tungsten arc welding; Naval steel welding; Design of experiments
+A-TIG; Inconel 625; GRA; Heat input; HAZ
+ATIG; Fluid flow; Convection; Heat transfer; ANSYS software; HEAT-TRANSFER; METAL
+A-TIG welding; Activating flux; Bead geometry; Microstructure; TIG WELDING PROCESS; BEHAVIOR; MICROSTRUCTURE
+A-TIG welding; Activating flux; Depth of penetration; Mechanical; CORROSION BEHAVIOR; TIG; MICROSTRUCTURE; PENETRATION; WELDMENTS
+Inconel 625; AISI 304; A-TIG process; Tensile strength; Microstructure; AUSTENITIC STAINLESS-STEEL; ELECTRON-BEAM; MICROSTRUCTURE
+TIG; A-TIG; Dissimilar metals; SEM analysis; Mechanical Properties
+SS-304 alloy; Activated flux; Tensile strength; Microhardness; Depth of; MECHANICAL-PROPERTIES; STAINLESS-STEEL; TENSILE PROPERTIES
+hypereutectic; aluminum alloy; remelting; mechanical property
+Dissimilar metal joints; A-TIG welding; Interlayer; Carbon migration; AUSTENITIC STAINLESS-STEEL; GRADED TRANSITION JOINTS; MARTENSITIC STEEL
+Friction stir welding; A-GTAW; 9Cr-1Mo steel; 316LN stainless steel; MICROSTRUCTURE; TENSILE; BEHAVIOR; P91
+A-TIG welding; particle size; metal flow; penetration depth; BEAD GEOMETRY; FLUX; STEEL; PENETRATION; MORPHOLOGY
+A-TIG welding; AISI 321; uniaxial tensile test; charpy impact test; FLUX
+Austenitic stainless steel; friction stir welding; scanning electron; RUPTURE BEHAVIOR; RESIDUAL-STRESS; TIG; DEFORMATION; DISTORTION
+RAFM steel; Welding; PWHT; Microstructure and mechanical properties; CREEP-RUPTURE BEHAVIOR; TIG; TECHNOLOGIES
+A-TIG; Dissimilar; Welding; MECHANICAL-PROPERTIES; MICROSTRUCTURE; PENETRATION; MORPHOLOGY
+Manufacturing; microstructure; weldability; oxidation; measurements; METALLURGICAL BEHAVIOR; MECHANICAL-PROPERTIES; PROCESS PARAMETERS; SHAPE
+GPCA-TIG welding; current density; arc pressure; temperature; groove
+duplex stainless steel alloy 2205; super duplex stainless steel alloy; HEAT-AFFECTED ZONE; CORROSION-RESISTANCE; PLASMA-ARC; TIG; GAS
+P92 steel; activated tungsten inert gas welding; optimization; response; CREEP-RUPTURE STRENGTH; DESIGN; ARC
+AZ61; ZK60; dissimilar joints; tungsten inert gas arc (TIG) welding; VIBRATION; EVOLUTION
+Geometrical behavior; Marangoni convection; Arc constriction; TIG; GAS TUNGSTEN ARC; MECHANICAL-PROPERTIES; CNT/AL COMPOSITES
+2; 25Cr-1Mo steel; A-TIG; phase transformation; residual stress and; FINITE-ELEMENT-ANALYSIS; RESIDUAL-STRESS; CREEP-BEHAVIOR; SIMULATION
+P92 steel; Dissimilar A-TIG welding; Mechanical properties; ACTIVATING FLUX; SURFACE-TENSION; INCONEL 718; WELDMENTS; BEHAVIOR
+P91 steel; A-TIG welding; nitrogen gas; arc column; bead geometry; MECHANICAL-PROPERTIES; MARANGONI CONVECTION; STAINLESS-STEEL; TIG
+Mechanical properties; Activating flux; Penetration depth; A-TIG
+FBTIG welding; Depth of penetration; Activating flux; Marangoni
+Activated TIG (A-TIG); JAYA; TLBO; RSM; Optimization; LEARNING-BASED OPTIMIZATION; ARTIFICIAL NEURAL-NETWORK; RED THERMAL
+oxide coating; nanoparticles; TIG welding; penetration depth; WEAR-RESISTANCE; ACTIVATING FLUX; PENETRATION; TIO2
+A-TIG welding parameters; Mild steel A-TIG welding; A-TIG flux; A-TIG; FLUX
+TIG welding; MWCNTs; Pictorial model; microstructure; equiaxed grains; DUCTILE FRACTURE; HEAT-TREATMENT; ALUMINUM; METAL; COMPOSITE
+Activated flux-GTAW; multipass-GTAW; mechanical properties; economic; MECHANICAL-PROPERTIES; PROCESS PARAMETERS; WELD JOINT; MICROSTRUCTURE
+ATIG; 316L austenitic stainless steel; ATIG welding mixing method; MECHANICAL-PROPERTIES; FLUX
+TIG spot welding; activating flux; macroscopic feature; microstructure; ALLOY
+TIG welding; A-TIG welding; Non-ferrous metals welding; CADMIUM CHLORIDE FLUX; MECHANICAL-PROPERTIES; OXIDE FLUXES; MAGNESIUM
+A-TIG; AZ31 magnesium alloy; mechanical property; numerical simulation; TUNGSTEN INERT-GAS; MECHANICAL-PROPERTIES; MICROSTRUCTURES; SIMULATION
+Activated; arc; flux; welding; hardness; tensile; strength; marangoni; PROCESS PARAMETERS; MECHANICAL-PROPERTIES; MICROSTRUCTURE; OPTIMIZATION
+9Cr-1Mo steel; welding; impression creep; microstructure; EBSD; creep; MECHANICAL-PROPERTIES; IMPRESSION CREEP; MARTENSITIC STEEL; INDENTATION
+TIG; Hardness; Tensile strength; Penetration depth; Weld joint; ACTIVATED FLUX; GAS; MICROSTRUCTURE
+TIG; GTAW; Flux; Weld Penetration; ATIG; Marangoni; Surface Tension; GAS; WELDS
+A-TIG welding; AISI 316L; Delta ferrite; Microstructure; Microhardness; MECHANICAL-PROPERTIES; MICROSTRUCTURE; BEHAVIOR; TIO2
+A-TIG welding; activated flux; weld geometry; microstructure; MECHANICAL-PROPERTIES; MICROSTRUCTURE; EVOLUTION; BEHAVIOR
+ECAP; Stir casting; Fatigue; Wear; Corrosion; Welding; PULSED CURRENT; BEHAVIOR
+ACTIVATING FLUX
+MECHANICAL-PROPERTIES
+ATIG welding process; Dissimilar welding; Microstructures; MECHANICAL-PROPERTIES
+TYPE-304
+A-TIG; 409 FSS; Activating flux; Weld bead geometry; marangoni; CREEP-RUPTURE BEHAVIOR; MECHANICAL-PROPERTIES; GAS; MICROSTRUCTURE; FLUX
+Copper; Brass; TIG welding; ATIG; PCTIG; Corrosion; Nitric acid; BIOCOMPATIBLE METALS
+Mg; welding; Ce; MAGNESIUM ALLOY; MECHANICAL-PROPERTIES; CORROSION-RESISTANCE; FLUX
+GPCA-TIG welding; Coupling arc electrode; Oxygen; Arc pressure; Weld; PENETRATION INCREASE; TUNGSTEN; ALLOYS; OXYGEN; SHAPE
+Ti-6Al-4V alloy; Activated flux; Microstructure; Tensile strength; TITANIUM-ALLOYS; BEHAVIOR; TENSILE; JOINTS
+LATERAL CRURAL STEAL; SUSPENSION SUTURE; ALAR-COLUMELLAR; RHINOPLASTY
+Inconel 600; AISI 316L; Dissimilar welding; DUPLEX STAINLESS-STEEL; STRUCTURE-PROPERTY RELATIONSHIPS; INERT-GAS
+activated TIG welding; 321 stainless steel; mechanical properties; SHIELDING GAS; PENETRATION; FERRITE; OPTIMIZATION
+coronary arteries; angina; coronary artery anomaly
+A-TIG; Carbon migration; Dissimilar metal joint; TEM; EPMA; DICTRA; CR-MO STEELS; 9CR-1MO STEEL; STAINLESS-STEELS; WELDMENTS; BEHAVIOR
+A-TIG; GTAW; Hardness; Charpy toughness; delta-Ferrite; TENSILE PROPERTIES; HEAT-TREATMENT; MICROSTRUCTURE; IMPACT; TOUGHNESS
+ATIG; austenitic stainless steel; weld shape; mechanical properties; FUSION ZONE GEOMETRY; TIG; PENETRATION; METAL; SHAPE
+A-TIG; PWHT; 409 FSS; Microstructure; Charpy toughness; Fractography; FERRITIC STAINLESS-STEEL; HEAT-TREATMENT; SENSITIZATION; PENETRATION
+TIG welding; Emissions; Fumes; Shielding gases; Arc radiation; Ozone
+309L-SS; Activating-TIG welding; Arc characteristic; Thermophysical; PENETRATION; POOL; GAS
+surface tension; Marangoni convection; arc constriction; arc temperature; OXIDE FLUXES; POOL SURFACE; TEMPERATURE; PENETRATION; TIG; AL
+2219 aluminium alloy; A-TIG welding; activating flux; DCSP; MECHANICAL-PROPERTIES
+P91; GTAW; hardness; Charpy toughness; delta-ferrite; DIFFERENT HEAT-TREATMENT; GRADE 91 STEEL; MECHANICAL-PROPERTIES
+Tigecycline; Intra-abdominal infection; Clostridium difficile; DISEASES SOCIETY; GUIDELINES; AMERICA; TRIALS; ADULTS
+Transient International Groups (TIGs); micro-diachronic; English as a; LINGUA FRANCA; ENGLISH
+MAX phase; Joining; Microstructure; Hardness; Brazing; TIG process; HIGH-TEMPERATURE; THERMODYNAMIC DESCRIPTION; MICROSTRUCTURE EVOLUTION
+Reduced activation ferritic/martensitic steel; A-TIG welding; response; CREEP-RUPTURE BEHAVIOR; BEAD GEOMETRY; JOINT; FLUX
+Machine Vision; TIG Welding; Process Monitoring; POOL SURFACE; KEYHOLE
+finite element model; activated tungsten inert gas welding; thermal; RESIDUAL-STRESSES; ELEMENT; BEHAVIOR
+Alloy C-276; Microsegregation; Secondary phases; ACTIVATING FLUX; STAINLESS-STEEL
+HEAT-AFFECTED ZONE; INPUT; CRACKING; PHASE
+Alloy C-22; AISI 316; Activated TIG Welding; Dissimilar weldments; HIGH-TEMPERATURE CORROSION; BEHAVIOR; STEEL; STRENGTH
+A-TIG; GTA; Hardness; Charpy toughness; Microstructure; Weldments; CREEP-RUPTURE BEHAVIOR; MODIFIED 9CR-1MO STEEL; P91 PIPE WELDMENTS
+MARANGONI CONVECTION; MECHANICAL-PROPERTIES; SHAPE VARIATIONS; TIG; GAS
+AISI 316; Activated TIG Welding; similar metals; Hot corrosion; Micro; MECHANICAL-PROPERTIES; STEEL; JOINTS
+Alloy C-276; Microsegregation; Activated Tungsten Inert Gas Welding; GAS; IMPROVEMENT
+Type 316LN stainless steel; SMAW; FCAW; A-TIG welding; Residual stress; RESIDUAL-STRESSES; DISTORTION; TIG; PENETRATION; FLUXES
+A-TIG welding; M-TIG welding; Creep; Microstructure; MARTENSITIC STEEL; WELDING PROCESS; MICROSTRUCTURE; CORROSION; EVOLUTION
+A-TIG welding; P91 steel; Weld bead geometry; Microstructure; Mechanical; CREEP-RUPTURE BEHAVIOR; STAINLESS-STEEL; ACTIVATING FLUX; WELDMENTS
+A-TIG; flux; geometry; macrostructure; microstructure; optimization; WELDING PROCESS PARAMETERS; MAGNESIUM ALLOY; STAINLESS-STEEL
+2219 aluminum alloy; Porosity; DCEN A-TIG welding; VPTIG welding; ELECTRON-BEAM; HEAT-TREATMENT; PENETRATION; BEHAVIOR; ARC
+activated tungsten inert gas welding; duplex stainless steel; WELDING EXPERIMENTAL-INVESTIGATIONS; RESIDUAL-STRESSES; TIG
+9Cr-1Mo steel; mechanical properties; microstructure; residual stress; BEHAVIOR; TIG; DISTORTION; FLUX; PREDICTION
+Flux-bounded (FBTIG) welding; Ceramic flux; Weld penetration; Flux gaps; MECHANICAL-PROPERTIES; ACTIVATING FLUX; OXIDE FLUXES; TIG
+A-TIG welding; corrosion behavior; flux; ferritic stainless steel; STEEL
+Powder metallurgy; A-TIG; Tensile strength; Taguchi; Response surface; BEHAVIOR
+TIG welding; Active agent; Uniform design; Aluminum alloy; Porosity
+Flux-assisted gas tungsten arc welding; Super-austenitic stainless; TIG FLUX; MICROSTRUCTURE; PERFORMANCE; PARAMETERS
+Inconel X750; Direct aging; Autogenous gas tungsten arc welding; STAINLESS-STEEL; HEAT-TREATMENT; TIG WELDS; PRECIPITATION; GAMMA'
+A-TIG welding; 304 L Stainless steel; Depth of penetration; PENETRATION; MECHANISM
+Magnesium alloys; Tungsten inert gas welding; Aging; Microstructure; PARTIALLY MELTED ZONE; MECHANICAL-PROPERTIES; GAS; MICROSTRUCTURE
+Borated stainless steel; activated flux; partially melted zone; AGTAW
+FBTIG; Depth of penetration; ATIG; Marangoni flow; Arc constriction; MARANGONI CONVECTION; ACTIVATING FLUX; SHAPE VARIATIONS; OXIDE FLUXES
+Activated flux TIG welding; AISI 347; Microstructure; Tensile strength; AUSTENITIC STAINLESS-STEEL; MECHANICAL-PROPERTIES; RESIDUAL-STRESSES
+2219 Aluminum alloy; DCEN A-TIG; active agent; pore
+Rare earth oxide; Ti6Al4V; Penetration; Marangoni convection; MARANGONI CONVECTION; ACTIVATING FLUX; OXIDE FLUXES; TUNGSTEN
+A TIG welding; Aerospace; Aluminium; Bead on plate; GTA welding; Silica; MARANGONI CONVECTION
+titanium alloy; A-TIG welding; fluoride; penetration; grain
+graphene nanoplate; nanoparticles strengthening activating gas tungsten; SIC PARTICLES; MATRIX COMPOSITES; COMPRESSION; FLUXES; SHAPE
+9Cr-1Mo steel; Arc welding; Automated ball indentation; Microstructure; HEAT-AFFECTED ZONE; MECHANICAL-PROPERTIES; TENSILE PROPERTIES; BEHAVIOR
+A-TIG; Dissimilar joint; P91; 316L; Mechanical properties; Corrosion; AUSTENITIC STAINLESS-STEEL; P91 STEEL; HEAT-TREATMENT; CYCLE FATIGUE
+Inconel 600; ATIG welding; Laser shock peening; Optimization; Activating; CRACK GROWTH-RATE; MECHANICAL-PROPERTIES; BEAD GEOMETRY; HEAT INPUT
+AISI 316 L; Activated TIG; Widmanstatten austenite; Grain boundary; INERT-GAS WELDS; MAGNESIUM ALLOY; BEAD GEOMETRY; SIGMA-PHASE; JOINTS
+Naval steel (DMR 249A); activated flux gas tungsten arc welding; design; RESPONSE-SURFACE METHODOLOGY; ROBOT PROCESS CAPABILITY; STAINLESS-STEEL
+Undercutting; Flux slag; Powdered ZrO2; Stainless steel; High-speed; OXIDE; PENETRATION; TIO2
+activated flux; austenitic stainless steels; microstructure and; RESIDUAL-STRESSES; ACTIVATING FLUX; GAS; PENETRATION; JOINTS
+angular distortion; A-TIG and M-TIG; joining; mechanical properties; ACTIVATING FLUX; HEAT-TREATMENT; SHIELDING GAS; 9CR-1MO STEEL; JOINTS
+Heat transfer; Fluid flow; A-TIG; Convection; FREE-SURFACE TEMPERATURE; 1ST PRINCIPLES; ARC; GAS; POOL; PENETRATION
+Residual stresses; Distortion; TIG welding process; AISI 316E; Numerical; NAVAL GAS-TURBINES; EXHAUST SYSTEMS; DESIGN; FIELD; PIPE
+AISI304 austenitic stainless steel; A-TIG weld; Deep cryogenic; MECHANICAL-PROPERTIES; ALUMINUM-ALLOY; CORROSION CRACKING; JOINTS
+Activated flux; autogenous TIG welding; penetration depth; heat affected; GAS; FLUX
+WELD POOL OSCILLATION; FLUX; MECHANISMS; FREQUENCY
+Weld angular distortion; Activated tungsten inert gas welding; Numerical; WELDED-JOINT; TIG
+DMR-249A; HSLA; A-TIG; Mechanical properties; STAINLESS-STEEL
+Autogenous TIG welding; Bead-On-Plate; Different types of fluxes; Weld
+TIG welding; ATIG welding; FBTIG welding; PCGTIG welding; weld; ACTIVATING FLUX; ARC; OPTIMIZATION
+Dissimilar welding; Duplex stainless steels; Heat input; Welding; HEAT-AFFECTED ZONE; GAS TUNGSTEN ARC; ELECTRON-BEAM; PLASMA-ARC; NITRIDE
+A-TIG; DBTT; PWHT; RAFM steel; Toughness; Welding; FERRITIC-MARTENSITIC STEEL; CREEP DEFORMATION-BEHAVIOR; BEAM WELDING
+Lean duplex stainless steel; Potentiodynamic test; EIS; TIG; A-TIG; PRECIPITATION
+Tungsten inert gas (TIG) welding; Activated flux-TIG (A-TIG) welding; RESIDUAL-STRESSES; FLUXES
+boron oxide; chromium oxide; penetration; Marangoni convection; welding; PENETRATION INCREASE; TIG; FLUX
+Activated; Arc; Constriction; Flux; LAFM; Oxide; Penetration; INERT-GAS WELDS; STAINLESS-STEEL; MECHANICAL-PROPERTIES; MICROSTRUCTURE
+GTAW; A-TIG; FB-TIG; Weld bead shape; Electric arc; OXIDE FLUXES; TUNGSTEN; PENETRATION; TIO2; GTA
+A-TIG; Incoloy 800H; Activating Flux; Carbide; Corrosion; STAINLESS-STEEL; PENETRATION INCREASE; DISSIMILAR WELDS; PERFORMANCE
+Austenitic stainless steel; Conventional TIG welding; A-TIG welding; MICROSTRUCTURE; CRACKING
+A-Tungsten inert gas welding; response surface methodology; PARAMETERS
+DMR-249A; A-GTAW; SMAW; FEM; SYSWELD; Thermo-mechanical Simulation; RESIDUAL-STRESS; DISTORTION; MODEL
+Super-duplex stainless steel; Activated flux TIG welding; DUPLEX STAINLESS-STEEL; MICROSTRUCTURE; PARAMETERS; TOUGHNESS; WELDMENTS
+lean duplex stainless steel; TIG; A-TIG; pitting corrosion; ASTM G48; BEHAVIOR
+ZONES
+RESIDUAL-STRESSES; DISTORTION; PIPE
+A-TIG; Flux; Weld bead geometry; Review paper; STAINLESS-STEEL; MARANGONI CONVECTION; SHAPE VARIATIONS; SHIELDING GAS
+Inconel X750; Activated flux tungsten inert gas welding; Compound flux
+Advanced A-TIG welding; Weld metal; Active gas; Microstructure; MECHANICAL-PROPERTIES; DEEP PENETRATION; SHIELDING GAS; MORPHOLOGY
+Austenitic stainless steel; Multi-pass weld Joints; Creep rupture
+Activated; Arc; Electromagnetic; Flow; Flux; Marangoni; Metal; Surface; MARANGONI CONVECTION; SHIELDING GAS; TIG; MICROSTRUCTURE; STEEL
+9Cr-1Mo steel; A-TIG; GA; Optimization; Parameters; Process; RSM; SOFT COMPUTING TECHNIQUES; CREEP-RUPTURE BEHAVIOR; GENETIC ALGORITHMS
+Activated flux; Arc column; Current; Depth of penetration; Shielding; BEAD GEOMETRY; STAINLESS-STEELS; MICROSTRUCTURE
+Micro-alloyed HSLA steel; Automated Ball Indentation; Micro-hardness; HARDENING BEHAVIOR; STRESS-STRAIN; GRAIN-SIZE; STRENGTH; MICROSTRUCTURE
+A-TIG welding; austenitic stainless steel; QuickTIG active flux; ACTIVATING FLUX; TIG; BEHAVIOR; ALLOY
+borated stainless steels; bead geometry; activated flux; GTAW; partially; GAS; WELDMENTS; BEHAVIOR
+HSLA steel; Inclusions; Toughness; SMAW; SAW; FCAW; A-GTAW; LOW-CARBON STEEL; ACICULAR FERRITE; INTRAGRANULAR FERRITE
+Modified 9Cr-1Mo steel; Activated TIG welding; SMAW; Creep; Type IV; CREEP-RUPTURE BEHAVIOR; HEAT-AFFECTED ZONE; LONG-TERM CREEP; GRADE 91
+arc welding; active flux; penetration; heating speed; driving energy
+Activated TIG; Flux-cored arc; Weld metal; Pitting corrosion; sigma and; AUSTENITIC STAINLESS-STEEL; DELTA-FERRITE; PROCESS PARAMETERS; PITTING
+Inconel 718; AISI 416 stainless steel; Activated flux; Metallurgical; AUSTENITIC STAINLESS-STEEL; MECHANICAL-PROPERTIES; LAVES PHASE; WELDS
+DMR-249A (naval steel); Residual stress; X-ray diffraction (XRD); PHASE-TRANSFORMATIONS; NUMERICAL-SIMULATION; DIFFRACTION
+Activated flux TIG welding; AISI 430; Microstructure; Tensile strength; MECHANICAL-PROPERTIES; OXIDE FLUXES; PENETRATION; PARAMETERS; ALLOY
+Activated; Arc; Constriction; Flux; Oxide; Penetration; RAFM; MICROSTRUCTURE; PERFORMANCE; GEOMETRY
+AZ31 magnesium alloy; Tungsten inert gas welding; Nano-particles; SIC PARTICLES; COMPOSITE; REFINEMENT; SHAPE
+Welding; Sensitization; Incoloy 800H; Flux; TIG; Metallurgical; Nano; INTERGRANULAR CORROSION; ACTIVATING FLUX; AISI 316L; SUSCEPTIBILITY
+TIG; Shielding; Gas; Arc-column; Activated flux; Penetration; BEAD GEOMETRY; MECHANICAL-PROPERTIES; STAINLESS-STEELS; MICROSTRUCTURE
+Activated tungsten inert gas welding; super duplex stainless steel alloy; CONCRETE HOLLOW BRICKS; STAINLESS-STEEL; RESIDUAL-STRESSES; BEAD
+A-TIG welding; Residual stress; Distortion; 316LN stainless steel; TIG; FLUX
+Inconel 718; A-TIG welding; Flux; Laves phase; Tensile strength; Impact; AUSTENITIC STAINLESS-STEEL; LAVES PHASE; WELDS; PERFORMANCE; STRESS
+UNS S32750; AISI 316L; SiO2 flux; Gas tungsten arc welding; MECHANICAL-PROPERTIES; HEAT INPUT; MICROSTRUCTURE; PERFORMANCE
+AISI 904L; Autogeneous welding; Flux-assisted welding; Compound flux; AUSTENITIC STAINLESS-STEEL; TIG; PENETRATION; BEHAVIOR
+P22 steel; A-TIG welding; PWHT; Precipitates; Toughness; BEAD GEOMETRY; JOINT; FLUX
+A-TIG welding; Mod. 9Cr-1Mo steel; PWHT; Microstructure; Toughness; MARANGONI CONVECTION; FLUX
+Duplex stainless steel; A-TIG welding; Weld geometry; Optimization; MARANGONI CONVECTION; MECHANISMS; ELEMENTS
+A-TIG welding; activated flux; 304 stainless steel; full penetration; TIG; SHAPE
+activating flux; coating density; depth/width ratio; TIG welding; MARANGONI CONVECTION; PENETRATION; FLUXES
+Welding; Infra-red thermal image; Cellular automata; Image processing; SYSTEM
+TIG Welding; Different Fluxes; Tensile Strength; Penetration Depth And
+A-TIG welding; Activating flux; Oxides; Penetration; Layer thickness of; MECHANISMS; SHAPE
+Magnesium alloy; A-TIG; activating fluxes; depth; insert
+Wear; Delta ferrite; Gas tungsten arc welding; Tribocorroison; Open
+Single activating flux; AZ91 magnesium alloy; TIG welding; Penetration
+Arc behavior; arc plasma; electron density; electron temperature; GAS TUNGSTEN ARC; MAGNESIUM ALLOY; SPECTRAL-ANALYSIS; LASER
+austenitic stainless steels; TIG welding; A-TIG welding; ultrasonic; PLATES; WAVES
+Gas Tungsten Arc Welding (GTAW); A-TIG; Cryolite-Containing Fluxes; PENETRATION
+Duplex stainless steel; ATIG welding; Aspect ratio; Taguchi design; MECHANICAL-PROPERTIES; TAGUCHI METHOD; MICROSTRUCTURE; CONCRETE; DESIGN
+AZ31 magnesium alloy; A-TIG welding; welding current; TiO2 coating; MECHANICAL-PROPERTIES; MICROSTRUCTURES; FLUXES; PENETRATION
+Flux bounded TIG; penetration improvement; AA2219; mechanical properties; MECHANICAL-PROPERTIES; ACTIVATING FLUX; OXIDE FLUXES; GTA WELDS; ARC
+microparticle; nanoparticle; activated oxide; thermal stability; SHIELDING GAS; ANGULAR DISTORTION; DEEP PENETRATION; ACTIVATING FLUX
+Gas pool coupled activating TIG; Boltzmann plot method; Oxygen
+Dissimilar joint; Microstructure; Welding; MICROSTRUCTURE; ALLOY
+AA-TIG; Duplex stainless steel; Weld shape; Oxide distribution; MARANGONI CONVECTION; ACICULAR FERRITE; LATH MARTENSITE; SHIELDING GAS
+P91 steel; delta-Ferrite; Welding; Toughness
+MARANGONI CONVECTION; SHAPE VARIATIONS; ACTIVATING FLUX
+ASME grade 92 ferritic steel; Activated-TIG welding; Creep; Type IV; HEAT-AFFECTED ZONE; 650 DEGREES-C; MARTENSITIC STEEL; IV CRACKING
+Flux Assisted TIG; ATIG; FBTIG; Penetration Improvement; Microstructure; STEEL
+Active Flux; Calorimetry; Measurement Uncertainty; FLUXES; HEAT
+activating flux; hot cracking; Inconel 718 alloy; TIG welding; welds; MARANGONI CONVECTION; STAINLESS-STEEL; TUNGSTEN; PENETRATION; GEOMETRY
+finite element analysis; A-TIG welding; temperature distribution; duplex; DISTORTION
+Dissimilar joints; A-TIG; Stainless steel SS304; Carbon steel; Oxide; TIG FLUX
+A-TIG; AISI 409 stainless steel; single component flux; ternary flux
+delta-ferrite; grade 91 steel; impact toughness; postweld heat; TEMPERATURE
+Analysis; Coatings; Macrostructure; Magnesium alloy; Microhardness; MECHANICAL-PROPERTIES; MARANGONI CONVECTION; MICROSTRUCTURES; FLUX
+Active fluxes; Titanium; GTA welding; Butt joints; Mechanical
+A-TIG; GTAW sulfur; oxygen; penetration; GAS-TUNGSTEN-ARC; AUSTENITIC STAINLESS-STEELS; MAGNESIUM ALLOYS
+AZ31 magnesium alloy; Tungsten inert gas welding; SiC ceramic particles; CADMIUM CHLORIDE FLUX; MATRIX COMPOSITES; AZ31; SHAPE
+Tungsten inert gas; Activating flux; Electron temperature; Electron; FLUX
+ARC; MICROSTRUCTURE; HEAT; GTAW
+Flux; weld bead shape; stainless steel; GTA welding; ACTIVATING FLUX; SHAPE VARIATION; TIG
+RAFM steel; ANFIS; A-TIG welding; Depth of penetration; Weld bead width
+Cu-Cr-Zr copper alloy; A-TIG welding; Formula of uniform designs; Flux
+316L(N) stainless steel; localized creep deformation; cavitation; PENETRATION; FLUX
+STAINLESS-STEEL; SHAPE VARIATIONS; ACTIVE ELEMENTS
+duralumin alloy; A-TIG; welding deformation
+AA-TIG; Duplex stainless steel; Oxide distribution; Microstructure; MARANGONI CONVECTION; ACICULAR FERRITE; SHAPE VARIATIONS; OXIDE FLUXES
+TIG welding; Activating flux; Marangoni convection; Lorentz forces; FLUID-FLOW; HEAT-TRANSFER; ARC; POOLS; MODEL
+TIG welding; Activating flux; Arc constriction; Arc temperature; METAL DROPLET FORMATION; GAS
+Artificial neural network; Infra red thermal images; Image processing
+17Cr-10Ni-2Mo alloy; Activated TIG welding; Iron-based compound; Flux; TIG FLUX; STEEL; FLUORIDES
+AZ31 magnesium alloy; TIG welding; Microstructure; Micropores; MARANGONI CONVECTION; OXIDE FLUXES; SHAPE; PENETRATION; CA
+corrosion; delta ferrite; microstructure; nitric acid; scanning electron; PITTING CORROSION; SOLIDIFICATION MODE; FERRITE CONTENT; MORPHOLOGY
+TIG Welding; TiO2 Powder; SiO2 Powder; Stainless Steel; Flux Compound; ACTIVATING FLUX; STAINLESS-STEEL; GAS
+Aluminium alloy; FZ-TIG welding; Weld penetration; Weld surface; STAINLESS-STEEL
+GEOMETRY
+FLUX
+9CR-1MO steel; A-TIG welding; Impact toughness; Microstructure; Tensile
+activating flux; fusion welding; penetration improvement; numerical; OXIDE FLUXES; TUNGSTEN; PENETRATION; MECHANISM
+A-TIG; Dissimilar joint; Oxide flux
+A-TIG; Dissimilar metal welding; Oxide flux
+Inconel 718 alloy; AISI 304 stainless steel; TIG welds; GTA welding
+Coatings; Flux; Geometry; High-temperature; Nonferrous; Optimization; STAINLESS-STEEL; TAGUCHI METHOD; OXIDE FLUXES; OPTIMIZATION; ARC
+A-TIG welding; activating flux; welded joint; structure; mechanical
+Weld morphology; ferrite content; residual stress; hot cracking; Cr2O3; RESIDUAL-STRESS; SHIELDING GAS
+LY12 Aluminum Alloy; TIG; A-TIG; Weld Zone; Metallurgical Structure
+mechanical property; magnesium alloy; fracture; active fluxes; TENSILE DEFORMATION; BEHAVIOR
+316L(N) stainless steel; Creep rupture strength; Activated TIG; STRENGTH; METAL; FLUX
+TIG (tungsten inert gas) Welding; Shield gas nozzle; Ar gas; Air; CFD
+Activating flux; Nucleation; Grain refinement; A-TIG; Titanium alloy; MARANGONI CONVECTION; MAGNESIUM; SHAPE; MICROSTRUCTURE; TI-6AL-4V; GTA
+FLUXES; METAL; GAS
+A-TIG welding; penetration increase; numerical simulation; X-ray
+BEAD GEOMETRY; STEEL; PREDICTION; HEAT
+Welding; Stainless steel; Weld morphology; Angular distortion; Oxide; FUSION ZONE GEOMETRY; MARANGONI CONVECTION; ANGULAR DISTORTION
+A-TIG; Active Fux; Increased Penetration; Arc Contraction
+Oxide flux; TIG process; Dissimilar joint
+Stainless steel; TIG welding; MoO3 powder; oxide flux; SHIELDING GAS; FLUX
+Fusion welding; activated flux; stainless steel; arc column; ACTIVATING FLUX; MARANGONI CONVECTION; MAGNESIUM ALLOY; ZONE GEOMETRY
+Mixed flux; silica powder; titania powder; activated TIG welding; CADMIUM CHLORIDE FLUX; MAGNESIUM ALLOY; ACTIVATING FLUX
+Aluminum alloy; FBTIG Welding; Activating flux; Weld formation
+OXIDE FLUXES; ANGULAR DISTORTION; MECHANISM; MICROSTRUCTURE
+metals; welding; microstructure; solidification; optical microscopy; MARANGONI CONVECTION; SHIELDING GAS; MICROSTRUCTURE; SOLIDIFICATION
+Double shielded; Marangoni convection; Welding parameters; Oxygen; MARANGONI CONVECTION; NUMERICAL-SIMULATION; DEEP PENETRATION; SHAPE
+Modified 9Cr-1Mo steel; A-TIG welding; Optimisation; Genetic algorithm; NEURAL-NETWORK; FLUID-FLOW; PART I; HEAT; GEOMETRY; MODEL
+TIG welding; activating flux; arc constriction; simulation; FLOW
+Artificial neural network; A-TIG welding; Genetic algorithm; Intelligent; GENETIC-ALGORITHM; MATERIALS SCIENCE; GEOMETRY; STEEL
+Artificial neural network; Infra Red Thermal images; image processing; GEOMETRY
+magnesium alloy; A-TIG; activating flux; welding arc; welding pool; CADMIUM CHLORIDE; OXIDE FLUXES; PENETRATION; MECHANISM; DEPTH
+Super duplex stainless steel; TIG welding; Activating flux; Mechanical; FLUXES
+A TIG welding; Arc welding; Gas shielded arc welding; GTA welding
+Activating flux; Nitrogen content; Stainless steel; Weld morphology; Hot; AUSTENITIC STAINLESS-STEEL; ANGULAR DISTORTION; NITROGEN; PENETRATION
+emission spectrum; activated flux tungsten inert gas (A-TIG) welding; ALUMINUM-ALLOYS; ACTIVATING FLUX; GAS; PLUME
+Activating flux; TIG welding; Austenitic stainless steel; FERRITE CONTENT
+welding A-TIG; active flux; microstructure; tenacity
+Weld shape; Oxygen; Helium; Marangoni convection; Electromagnetic; GAS TUNGSTEN ARC; SHAPE VARIATIONS; OXIDE FLUXES; PENETRATION
+A-TIG; stainless steel; oxide flux; penetration; RESIDUAL-STRESS; FLUX; GAS
+activating flux; magnesium alloy; SiC particles; tungsten inert gas; OXIDE FLUXES; MECHANISM; MICROSTRUCTURE; SHEETS
+GTAW; activating flux; 310 stainless steel; Taguchi method; neural; STAINLESS-STEEL
+A-TIG welding; stainless steel; bead shape; ferrite content; FLUX
+ACTIVATING FLUX
+activating flux; aluminum alloy; AC A-TIG welding; weld penetration
+magnesium; flux-coated wires; weld bead surface appearance
+A-TIG; marangoni convection; heat transfer and fluid flow; surface; HEAT-TRANSFER; FLUID-FLOW; SURFACE; POOL; TEMPERATURE; FLUXES; METAL
+A-TIG welding; oxygen concentration; flow patterns; weld penetration; SHAPE VARIATIONS; POOL DEVELOPMENT; SURFACE-TENSION; FLOW PATTERNS
+welding arc; activating flux; arc shape; arc voltage; stainless steel
+ATIG welding; activating flux; penetration increasing; phoenics; SHIELDING GAS; PHASE-CHANGE; ARC; CONVECTION; POOL; TEMPERATURE; METAL
+ATIG welding; laser beam welding; duplex stainless steel; thermoelectric; PRECIPITATION; ALUMINUM; FLUX
+ATIG welding; penetration; Marangoni-effect; electric arc; activating
+A-TIG welding; austenitic stainless steels; genetic algorithm; weld bead; ADAPTIVE SEARCH; GAS TUNGSTEN; OPTIMIZATION; FLUX
+titanium alloy; surface activating flux; A-TIG welding; welding
+TYPE-304 STAINLESS-STEEL; FLUID-FLOW; MARANGONI CONVECTION; POOL
+TIG-flux welding; welds morphology; angular distortion; hot cracking
+TIG welding; magnesium alloy; activating flux
+TYPE-304 STAINLESS-STEEL; FLUID-FLOW; PENETRATION; METAL; GAS; GTA
+A-TIG welding; austenite; ferrite; X-ray diffraction; NUMBER PREDICTION MODEL; COOLING RATE; CONSTITUTION DIAGRAM; ACCOUNTS
+A-TIG welding; activating flux; oxides; penetration; molecular oxygen
+A-TIG welding; activating fluxes; shielding gases; MARANGONI CONVECTION; SHAPE VARIATIONS; ARC PHENOMENA; PENETRATION
+activating flux; Mg alloy; process monitoring; TIG welding; weld; PENETRATION
+angular distortion; delta ferrite; hot cracking susceptibility; ACTIVATING FLUX; RESIDUAL-STRESS; GAS; WELDMENTS
+magnesium alloy; TIG welding; weld penetration depth; activating flux; TITANIUM-ALLOY; PENETRATION; MICROSTRUCTURE
+A-TIG welding; oxygen content; surface tension; flow patterns; TYPE-304 STAINLESS-STEEL; SURFACE-ACTIVE ELEMENTS; POOL DEVELOPMENT
+Ti alloy; TIG welding; activating flux; weld penetration; process
+A-TIG welding; spectrum characteristic; activating flux
+TIG welding; activating flux; penetration; microstructure; mechanical
+activating flux TIG (A-TIG) welding; surface tension; arc voltage
+TIG welding; titanium alloy; microstructure; mechanical performance
+TIG welding; A-TIG welding; Marangoni effect; activated fluxes
+TIG welding; activating flux; surface tension; arc voltage
+gas tungsten arc welding; weld penetration; Marangoni convection; oxide; SURFACE-ACTIVE ELEMENTS; FLUID-FLOW; POOLS
+TIG welding; weld bead; stainless steel; PENETRATION
